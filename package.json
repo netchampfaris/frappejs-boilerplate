@@ -1,0 +1,7 @@
+{
+  "name": "frappejs-boilerplate",
+  "version": "0.1.0",
+  "dependencies": {
+    "frappejs": "^0.0.9"
+  }
+}
